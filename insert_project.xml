@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Projects xmlns="https://github.com/ricardodenilson/painelODS">
+  <ProjectID
+      ProjectIDNumber="99503"
+      OrderDate="2021-07-16">
+    <Info Type="Extensao">
+      <Titulo>Inteligência Artifial</Name>
+      <Centro>Ilha do Fundão</Street>
+      <AreaTematicaPrincipal>Mill Valley</City>
+      <Modalidade>Evento</State>
+      <Unidade>Instituto de Matemática</Zip>
+      <AreaTematicaSecundaria>USA</Country>
+    </Info>
+  </PurchaseID>
+</Projects>
