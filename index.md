@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Os Objetivos de Desenvolvimento Sustentável (ODS) são um apelo universal da Organização das Nações Unidas à ação para acabar com a pobreza, proteger o planeta e assegurar que todas as pessoas tenham paz e prosperidade.
 
-You can use the [editor on GitHub](https://github.com/ricardodenilson/painelODS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+​
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Os 17 Objetivos de Desenvolvimento Sustentável (ODS) nasceram na Conferência das Nações Unidas sobre desenvolvimento sustentável no Rio de Janeiro em 2012.  O objetivo foi produzir um conjunto de objectivos que suprisse os desafios ambientais, políticos e econômicos mais urgentes que nosso mundo enfrenta.
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os SDGs substituem os objetivos de desenvolvimento do Milênio (ODM), que começou um esforço global em 2000 para combater a indignidade da pobreza.  Os ODM estabeleceram objectivos mensuráveis, universalmente acordados para combater a pobreza extrema e a fome, prevenindo doenças mortais e expandir a educação primária para todas as crianças, entre outras prioridades de desenvolvimento.
 
-```markdown
-Syntax highlighted code block
+​
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricardodenilson/painelODS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Esses 17 objetivos, construídos sobre os sucessos de desenvolvimento do Milênio, também incluem novas áreas tais como a mudança climática, desigualdade econômica, inovação, consumo sustentável, paz e justiça, entre outras prioridades.  Os objetivos são interligados – muitas vezes a chave para o sucesso de um envolverá a abordar questões mais comumente associadas ao outro.
